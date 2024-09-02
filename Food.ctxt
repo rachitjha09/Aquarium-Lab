@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Not\ a\ sea\ animal,\ but\ food\ for\ the\ animals\ to\ eat.\ Disappers\ when\ intersected.\r\n\ \r\n\ @author\ (Rachit\ Jha)\ \r\n\ @version\ (1/4/24)\r\n
+comment1.params=
+comment1.target=Food()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fall()
+comment4.params=
+comment4.target=void\ remove()
+comment5.params=
+comment5.target=void\ spawn()
+numComments=6

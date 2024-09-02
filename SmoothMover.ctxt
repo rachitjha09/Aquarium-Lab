@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SmoothMover
+comment0.text=\r\n\ Helps\ move\ with\ decimals\r\n\ \r\n\ @author\ (Rachit\ Jha)\ \r\n\ @version\ (1/4/23)\r\n
+comment1.params=x\ y
+comment1.target=void\ setTheLocation(double,\ double)
+comment2.params=
+comment2.target=double\ getXValue()
+comment3.params=
+comment3.target=double\ getYValue()
+comment4.params=d
+comment4.target=void\ move(double)
+numComments=5
